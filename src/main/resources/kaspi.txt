@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kaspi_catalog date="string">
+<company>Levis</company>
+<merchantid>Levis</merchantid>
+<offers>
+<offer sku="5400970041525">
+<model>Джинсы 28833;0588 36-30, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000002"/>
+<availability available="yes" storeId="000000006"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043635">
+<model>Джинсы 28833;0893 29-32, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000006"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043659">
+<model>Джинсы 28833;0893 30-32, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000006"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043666">
+<model>Джинсы 28833;0893 30-34, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000006"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043673">
+<model>Джинсы 28833;0893 31-32, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000006"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043680">
+<model>Джинсы 28833;0893 31-34, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000002"/>
+<availability available="yes" storeId="000000006"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043697">
+<model>Джинсы 28833;0893 32-30, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000002"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043703">
+<model>Джинсы 28833;0893 32-34, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000002"/>
+<availability available="yes" storeId="000000006"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043710">
+<model>Джинсы 28833;0893 33-32, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000002"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043727">
+<model>Джинсы 28833;0893 33-34, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000002"/>
+<availability available="yes" storeId="000000006"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043734">
+<model>Джинсы 28833;0893 34-30, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000002"/>
+<availability available="yes" storeId="000000006"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043741">
+<model>Джинсы 28833;0893 34-32, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000002"/>
+<availability available="yes" storeId="000000006"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043758">
+<model>Джинсы 28833;0893 34-34, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000002"/>
+<availability available="yes" storeId="000000006"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043765">
+<model>Джинсы 28833;0893 36-32, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000002"/>
+<availability available="yes" storeId="000000006"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+<offer sku="5400970043772">
+<model>Джинсы 28833;0893 36-34, SS-21</model>
+<brand>LEVIS</brand>
+<availabilities>
+<availability available="yes" storeId="000000002"/>
+<availability available="yes" storeId="000000006"/>
+<availability available="yes" storeId="O00000017"/>
+</availabilities>
+<price>59900</price>
+</offer>
+</offers>
+</kaspi_catalog>
+
