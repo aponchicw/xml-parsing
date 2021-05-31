@@ -12,7 +12,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 @Getter
 @Setter
 @XmlRootElement
-public class Availabilities {
+public class Availabilities implements AvailabilitiesInt {
     private String availability;
 
     @Override
@@ -20,5 +20,10 @@ public class Availabilities {
         return "Availability{" +
                 "availability_status='" + availability + '\'' +
                 '}';
+    }
+
+    @Override
+    public String getTagContent(){
+        return null;
     }
 }

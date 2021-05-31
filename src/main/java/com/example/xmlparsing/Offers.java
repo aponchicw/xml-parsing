@@ -20,4 +20,9 @@ public class Offers implements OffersInt {
     public List<Offer> getOffer() {
         return offer;
     }
+
+    @Override
+    public Offer getOfferById(int i) {
+        return offer.get(i);
+    }
 }
