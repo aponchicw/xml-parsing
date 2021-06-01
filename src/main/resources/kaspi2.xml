@@ -11,7 +11,7 @@
                 <availability available="yes" storeId="000000006"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>12000</price>
         </offer>
         <offer sku="5400970043635">
             <model>Джинсы 28833;0893 29-32, SS-21</model>
@@ -19,7 +19,7 @@
             <availabilities>
                 <availability available="yes" storeId="000000006"/>
             </availabilities>
-            <price>59900</price>
+            <price>23000</price>
         </offer>
         <offer sku="5400970043659">
             <model>Джинсы 28833;0893 30-32, SS-21</model>
@@ -28,7 +28,7 @@
                 <availability available="yes" storeId="000000006"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>156000</price>
         </offer>
         <offer sku="5400970043666">
             <model>Джинсы 28833;0893 30-34, SS-21</model>
@@ -37,7 +37,7 @@
                 <availability available="yes" storeId="000000006"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>459900</price>
         </offer>
         <offer sku="5400970043673">
             <model>Джинсы 28833;0893 31-32, SS-21</model>
@@ -45,7 +45,7 @@
             <availabilities>
                 <availability available="yes" storeId="000000006"/>
             </availabilities>
-            <price>59900</price>
+            <price>56500</price>
         </offer>
         <offer sku="5400970043680">
             <model>Джинсы 28833;0893 31-34, SS-21</model>
@@ -55,7 +55,7 @@
                 <availability available="yes" storeId="000000006"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>50000</price>
         </offer>
         <offer sku="5400970043697">
             <model>Джинсы 28833;0893 32-30, SS-21</model>
@@ -64,7 +64,7 @@
                 <availability available="yes" storeId="000000002"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>23900</price>
         </offer>
         <offer sku="5400970043703">
             <model>Джинсы 28833;0893 32-34, SS-21</model>
@@ -74,7 +74,7 @@
                 <availability available="yes" storeId="000000006"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>99900</price>
         </offer>
         <offer sku="5400970043710">
             <model>Джинсы 28833;0893 33-32, SS-21</model>
@@ -83,7 +83,7 @@
                 <availability available="yes" storeId="000000002"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>89900</price>
         </offer>
         <offer sku="5400970043727">
             <model>Джинсы 28833;0893 33-34, SS-21</model>
@@ -93,7 +93,7 @@
                 <availability available="yes" storeId="000000006"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>67900</price>
         </offer>
         <offer sku="5400970043734">
             <model>Джинсы 28833;0893 34-30, SS-21</model>
@@ -101,18 +101,19 @@
             <availabilities>
                 <availability available="yes" storeId="000000002"/>
                 <availability available="yes" storeId="000000006"/>
+                <availability available="yes" storeId="000000002"/>
+                <availability available="yes" storeId="000000006"/>
             </availabilities>
-            <price>59900</price>
+            <price>45900</price>
         </offer>
         <offer sku="5400970043741">
             <model>Джинсы 28833;0893 34-32, SS-21</model>
             <brand>LEVIS</brand>
             <availabilities>
                 <availability available="yes" storeId="000000002"/>
-                <availability available="yes" storeId="000000006"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>23900</price>
         </offer>
         <offer sku="5400970043758">
             <model>Джинсы 28833;0893 34-34, SS-21</model>
@@ -122,17 +123,15 @@
                 <availability available="yes" storeId="000000006"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>90900</price>
         </offer>
         <offer sku="5400970043765">
             <model>Джинсы 28833;0893 36-32, SS-21</model>
             <brand>LEVIS</brand>
             <availabilities>
-                <availability available="yes" storeId="000000002"/>
-                <availability available="yes" storeId="000000006"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>133200</price>
         </offer>
         <offer sku="5400970043772">
             <model>Джинсы 28833;0893 36-34, SS-21</model>
@@ -142,7 +141,7 @@
                 <availability available="yes" storeId="000000006"/>
                 <availability available="yes" storeId="O00000017"/>
             </availabilities>
-            <price>59900</price>
+            <price>13400</price>
         </offer>
     </offers>
 </kaspi_catalog>
